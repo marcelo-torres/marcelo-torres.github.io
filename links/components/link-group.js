@@ -16,9 +16,9 @@ class LinkGroup extends HTMLElement {
 
      var list = [];
      groupData.elements.forEach(element => {
-      var listElement = `<div uk-grid>
+      var listElement = `<div uk-grid class="uk-text-large">
       <div class="uk-width-auto">
-          <a href="${element.link}">${element.name}</a>
+          <a href="${element.link}" class="">${element.name}</a>
       </div>
       <div class="uk-width-expand">
           <div class="uk-text-muted">${replaceStringNull(element.description)}</div>
@@ -29,7 +29,7 @@ class LinkGroup extends HTMLElement {
      });
 
     this.innerHTML =
-      `<div class="uk-card uk-card-default uk-width-1-1@m">
+      `<div class="uk-card uk-card-default uk-width-1-1">
     <div class="uk-card-header">
         <div class="uk-grid-small uk-flex-middle" uk-grid>
             <div class="uk-width-expand">
