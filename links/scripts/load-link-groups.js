@@ -39,12 +39,12 @@ const linksGroups = [
         ]
     },
     {
-        "groupName": "Tools",
+        "groupName": "API",
         "elements": [
             {
-                "name": "Trello",
-                "link": "https://trello.com/",
-                "description": " Kanban-style application"
+                "name": "Guia de Design REST",
+                "link": "https://github.com/oliveira-michel/guias-api/blob/master/design-rest-api/guia.md",
+                "description": "A guideline for REST API designing (Portuguese)"
             }
         ]
     },
@@ -55,6 +55,16 @@ const linksGroups = [
                 "name": "W3C",
                 "link": "https://www.w3schools.com/",
                 "description": "Educational website for learning coding online"
+            }
+        ]
+    },
+    {
+        "groupName": "Tools",
+        "elements": [
+            {
+                "name": "Trello",
+                "link": "https://trello.com/",
+                "description": " Kanban-style application"
             }
         ]
     }
