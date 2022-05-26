@@ -47,5 +47,15 @@ const linksGroups = [
                 "description": " Kanban-style application"
             }
         ]
+    },
+    {
+        "groupName": "Frontend",
+        "elements": [
+            {
+                "name": "W3C",
+                "link": "https://www.w3schools.com/",
+                "description": "Educational website for learning coding online"
+            }
+        ]
     }
 ]
