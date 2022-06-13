@@ -67,5 +67,20 @@ const linksGroups = [
                 "description": " Kanban-style application"
             }
         ]
+    },
+    {
+        "groupName": "Concepts",
+        "elements": [
+            {
+                "name": "BFF",
+                "link": "https://samnewman.io/patterns/architectural/bff/",
+                "description": "Backends For Frontends"
+            },
+            {
+                "name": "Conway's law",
+                "link": "https://en.wikipedia.org/wiki/Conway%27s_law",
+                "description": ""
+            }
+        ]
     }
 ]
