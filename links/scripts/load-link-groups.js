@@ -82,5 +82,15 @@ const linksGroups = [
                 "description": ""
             }
         ]
+    },
+    {
+        "groupName": "Others",
+        "elements": [
+            {
+                "name": "Data Viz Project",
+                "link": "https://datavizproject.com/#",
+                "description": "Catalog of data visualizations"
+            },
+        ]
     }
 ]
