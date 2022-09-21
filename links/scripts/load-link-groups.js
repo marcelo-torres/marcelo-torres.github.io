@@ -84,6 +84,16 @@ const linksGroups = [
         ]
     },
     {
+        "groupName": "AI",
+        "elements": [
+            {
+                "name": "MLU-EXPLAIN",
+                "link": "https://mlu-explain.github.io/linear-regression/",
+                "description": "Visual explanations of core machine learning concepts"
+            },
+        ]
+    },
+    {
         "groupName": "Others",
         "elements": [
             {
