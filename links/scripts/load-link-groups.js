@@ -42,9 +42,14 @@ const linksGroups = [
         "groupName": "API",
         "elements": [
             {
-                "name": "Guia de Design REST",
+                "name": "REST API designing",
                 "link": "https://github.com/oliveira-michel/guias-api/blob/master/design-rest-api/guia.md",
                 "description": "A guideline for REST API designing (Portuguese)"
+            },
+            {
+                "name": "JSONQuery",
+                "link": "https://jsonquery.co.uk/",
+                "description": "Online JSON Querying Tool"
             }
         ]
     },
