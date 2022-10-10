@@ -70,6 +70,11 @@ const linksGroups = [
                 "name": "Trello",
                 "link": "https://trello.com/",
                 "description": " Kanban-style application"
+            },
+            {
+                "name": "Learn Git Branching",
+                "link": "https://learngitbranching.js.org/",
+                "description": "A visual and interactive way to learn Git"
             }
         ]
     },
