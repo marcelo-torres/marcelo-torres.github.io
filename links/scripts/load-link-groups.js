@@ -75,7 +75,15 @@ const linksGroups = [
                 "name": "Learn Git Branching",
                 "link": "https://learngitbranching.js.org/",
                 "description": "A visual and interactive way to learn Git"
+            },
+            {
+                "name": "RegExr",
+                "link": "https://regexr.com/",
+                "description": "Learn, build and test regular expressions"
             }
+            
+            
+            
         ]
     },
     {
