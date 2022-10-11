@@ -50,7 +50,14 @@ const linksGroups = [
                 "name": "JSONQuery",
                 "link": "https://jsonquery.co.uk/",
                 "description": "Online JSON Querying Tool"
+            },
+            {
+                "name": "JSON diff",
+                "link": "https://json-diff.com//",
+                "description": "Online JSON Compare"
             }
+            
+            
         ]
     },
     {
