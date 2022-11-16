@@ -119,6 +119,21 @@ const linksGroups = [
         ]
     },
     {
+        "groupName": "Regex",
+        "elements": [
+            {
+                "name": "Regular Expression Language - Quick Reference",
+                "link": "https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference",
+                "description": "Quick Reference"
+            },
+            {
+                "name": "Regular Expressions 101",
+                "link": "https://regex101.com",
+                "description": "Regex Validator"
+            },
+        ]
+    },
+    {
         "groupName": "Others",
         "elements": [
             {
