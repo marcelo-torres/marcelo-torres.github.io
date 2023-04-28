@@ -138,6 +138,11 @@ const linksGroups = [
                 "link": "https://datavizproject.com/#",
                 "description": "Catalog of data visualizations"
             },
+            {
+                "name": "TecGuide.sh",
+                "link": "https://techguide.sh/en-US/",
+                "description": "Learning paths of the main technologies demanded by the market"
+            },
         ]
     }
 ]
