@@ -143,6 +143,12 @@ const linksGroups = [
                 "link": "https://techguide.sh/en-US/",
                 "description": "Learning paths of the main technologies demanded by the market"
             },
+            {
+                "name": "Blockchain Demo",
+                "link": "https://andersbrownworth.com/blockchain",
+                "description": "Iiteractive blockchain representation"
+            },
+
         ]
     }
 ]
